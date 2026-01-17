@@ -50,11 +50,11 @@ This project analyzes K–5 student reading log data during the March Madness Re
 ## Data 📂
 
 * **Source:** K–5 student reading logs collected during the March Madness Reading Challenge  
-* **Format:** CSV (`MM.csv`)  
+* **Format:** CSV 
 
 ## License
 
 MIT License  
 
-Copyright (c) 2025 [S. Taylor]  
+Copyright (c) 2025 s. taylor
 ***
