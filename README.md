@@ -1,6 +1,9 @@
 # Student Performance Analytics and Trend Analysis | March Madness Reading Challenge
 ***
 
+[![Student Performance Dashboard](visualizations/Student%20Performance%20Dashboard.png)](https://public.tableau.com/app/profile/samanthaataylor/viz/StudentPerformanceAnalyticsandTrendAnalysis-MarchMadnessReadingChallengeWorkbook/StudentPerformanceDashboard#1)
+
+
 ## Project Overview ☰
 
 This project analyzes K–5 student reading log data during the March Madness Reading Challenge. It explores trends, participation, outliers, and top performers at the student, class, and teacher levels. The goal is to provide actionable insights for educators and administrators to support instruction, recognize excellence, and monitor student progress.
