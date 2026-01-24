@@ -59,5 +59,5 @@ This project analyzes K–5 student reading log data during the March Madness Re
 
 MIT License  
 
-Copyright (c) 2025 s. taylor
+Copyright (c) 2025 Samantha-A-Taylor
 ***
