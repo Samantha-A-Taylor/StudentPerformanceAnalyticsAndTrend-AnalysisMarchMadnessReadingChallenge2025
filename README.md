@@ -52,7 +52,7 @@ This project analyzes K–5 student reading log data during the March Madness Re
 
 ## Data 📂
 
-* **Source:** K–5 student reading logs collected during the March Madness Reading Challenge  
+* **Source:** K–5 student reading logs collected during the March Madness Reading Challenge (names randomized to preserve anonymity) 
 * **Format:** CSV 
 
 ## License
