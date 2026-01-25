@@ -1,0 +1,5 @@
+Data Privacy Notice
+
+Due to the sensitive nature of student and teacher information, the full dataset is not included in this repository.
+
+A partial dataset is provided for reference purposes only. All student and teacher names have been altered to preserve anonymity.
